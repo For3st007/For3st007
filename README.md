@@ -10,7 +10,7 @@
 
 ### "A verdade vem a tona, no momento da morte" 🩸 
 
-My name is Rayner, I'm 16 years old, I'm currently living in BH and I'm studying several programming languages.
+My name is Rayner, I'm 15 years old, I'm currently living in BH and I'm studying several programming languages.
 
 ```C++
 using namespace std::Forest;
