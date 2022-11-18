@@ -1,8 +1,8 @@
 ## Hi, i'm [Tempest] <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/> (https://github.com/Tempest7x)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=For3st007&label=Profile%20views&color=323232&style=flat-square" alt="Forest" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tempest7x&label=Profile%20views&color=323232&style=flat-square" alt="Forest" /> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/For3st.007)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raxxzin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rayner.wts)
 
 
@@ -13,7 +13,7 @@
 My name is Rayner, I'm 15 years old, I'm currently living in BH and I'm studying several programming languages.
 
 ```C++
-using namespace std::Forest;
+using namespace std::Tempest;
 
 int main() {
     char info[1337] = "FullStack Developer";
